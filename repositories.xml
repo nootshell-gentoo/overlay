@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories version="1.0">
+	<repo priority="50" quality="experimental" status="unofficial">
+		<name>icecubetray-personal</name>
+		<description>Personal overlay</description>
+		<homepage>https://github.com/icecubetray/gentoo-overlay</homepage>
+		<source type="git">https://github.com/icecubetray/gentoo-overlay.git</source>
+	</repo>
+</repositories>
